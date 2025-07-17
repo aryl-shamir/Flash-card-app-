@@ -5,7 +5,7 @@ This is a simple **Flash Card App** built using Python and Tkinter. It helps use
 
 ## 📸 Demo
 
-[![Flash Card Demo](./assets/demo.gif)](./assets/demo.gif)
+[![Flash Card Demo] (./assets/demo.gif)] (./assets/demo.gif)
 ---
 
 ## 🚀 Features
