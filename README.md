@@ -3,6 +3,11 @@
 
 This is a simple **Flash Card App** built using Python and Tkinter. It helps users (especially kids or beginners) to improve their English vocabulary by translating French words into English. This project was made with love for my junior brother to make language learning interactive and fun ❤️.
 
+## Note:
+
+At the start of the program, the score.txt and words_to_learn are not present, it is when you run the program and click the right button that words you already know are being removed from the word list and the words_to_learn.csv is formed 
+---
+
 ## 📸 Demo
 
 ![Flash Card Demo] (./assets/demo.gif)
